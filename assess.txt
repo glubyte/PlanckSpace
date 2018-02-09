@@ -1,0 +1,41 @@
+Greetings, organism.
+
+Prior to initialization, the plasticity of your brain must be assessed.
+
+Answer the following questions. Input the answer precisely in lower-case and/or numbers. How you obtain this information is irrelevant; simply, the information must exist before proceeding.
+
+d/dx(e^x)?
+"e^x"
+
+int(dx)?
+"x"
+
+What series can be used to represent a function as a sum of sine waves?
+"fourier" "fourier series"
+
+Solutions to the wave equation exist in which space?
+"hilbert" "hilbert space"
+
+The second law of thermodynamics describes the dynamics of which physical quantity?
+"entropy"
+
+What is one reformulation of classical mechanics?
+"lagrangian" "lagrangian mechanics" "hamiltonian" "hamiltonian mechanics"
+
+In special relativity, what is the name of the spacetime transformation between inertial frames?
+"lorentz" "lorentz transformation"
+
+The electric constant is also called...
+"vacuum permittivity" "permittivity of free space" "permittivity"
+
+Upon moving relative to the source of a wave, which phenomena is observed?
+"doppler" "doppler effect"
+
+The bending of electromagnetic waves around obstacles is referred to as what?
+"diffraction"
+
+The exchange particle of the electromagnetic force is called what?
+"photon" "photons"
+
+
+I do not like under-developed minds, organism. I advise that you build your knowledge prior to initializing this simulation again.
